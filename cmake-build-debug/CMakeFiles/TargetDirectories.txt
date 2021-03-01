@@ -1,3 +1,0 @@
-C:/Users/Kyrobi/Desktop/C Program/Other Projects/MockMeme/cmake-build-debug/CMakeFiles/MockMeme.dir
-C:/Users/Kyrobi/Desktop/C Program/Other Projects/MockMeme/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kyrobi/Desktop/C Program/Other Projects/MockMeme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
